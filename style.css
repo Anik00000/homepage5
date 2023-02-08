@@ -1,0 +1,47 @@
+
+.manu_section{
+ background-color:#0A1151;
+}
+.manu_section ul{
+    padding-top: 30px;
+}
+.manu_section ul li{
+    list-style: none;
+}
+.manu_section ul li a{
+ text-align: center;
+}
+.socel_section{
+    background-color:#0A1151;
+}
+.socel_section ul{
+    padding-top: 30px;
+}
+.socel_section ul li{
+    list-style: none;
+    display: inline;
+}
+.socel_section ul li a{
+    text-align: center;
+    padding: 16px;
+}
+.socel_section ul li a i{
+   color: #f3dc0e;
+}
+.image_section{
+     margin-left: -19px;
+    
+}
+.imgg{
+    /* margin-left: -213px; */
+    /* padding-bottom: 1055px; */
+    margin: 80px -1px 0px -205px;
+   
+}
+.ariya{
+    background-color: #ECD21F;
+    padding-top: 30px;
+}
+.image16 ul li {
+    list-style: none;
+}
